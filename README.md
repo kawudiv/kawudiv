@@ -23,7 +23,7 @@
 
 ## Language and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,figma,unity,cs,kotlin,java,flutter,laravel,py,docker,php,androidstudio,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,figma,unity,kotlin,java,flutter,laravel,py,docker,php,androidstudio,mongodb,dart)](https://skillicons.dev)
 
 <hr/>
 

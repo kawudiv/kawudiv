@@ -1,6 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawudiv&label=Profile%20views&color=0e75b6&style=flat" alt="kawudiv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawudiv&label=Profile%20views&color=0e75b6&style=flat" alt="kawudiv" /> </p><br><h1 align="center">Hello, I'm Jem Harold Centino</h1><h3 align="center">Aspiring Software Developer</h3><br>- 🌱 I’m currently learning C++ Unreal Engine 5<br>- 📫 How to reach me [jeso.centino.up@phinmaed.com](jeso.centino.up@phinmaed.com)<br>- 💻 All of my projects are available at [https://kawudiv.github.io/Portfolio/](https://kawudiv.github.io/Portfolio/)
 
-<h1 align="center">Hello, I'm Jem Harold Centino</h1><h3 align="center">Aspiring Software Developer</h3><br>- 🌱 I’m currently learning C++ Unreal Engine 5<br>- 📫 How to reach me **jeso.centino.up@phinmaed.com**<br>- 💻 All of my projects are available at [https://kawudiv.github.io/Portfolio/](https://kawudiv.github.io/Portfolio/)
 
 
 ## Socials:

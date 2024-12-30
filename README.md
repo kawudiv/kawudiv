@@ -7,7 +7,7 @@
 
 <hr/>
 
-## Connect With Me:
+## Connect With Me
 <a href="https://www.facebook.com/kawuudesu" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com" height="30" width="40" />
 </a>

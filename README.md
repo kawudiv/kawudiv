@@ -21,9 +21,9 @@
 </a>
 
 
-## Language and Technologies
+## Frameworks and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,figma,unity,kotlin,java,flutter,laravel,py,docker,php,androidstudio,mongodb,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,nodejs,flutter,androidstudio,docker,mysql,postgres,unity,mongodb,figma,laravel)](https://skillicons.dev)
 
 <hr/>
 

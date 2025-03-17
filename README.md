@@ -2,7 +2,7 @@
 <h3> I'm Jem Harold Centino, an aspirant Software Developer</h3>
 
 - 👨‍💻 I’m looking to collaborate on building projects.
-- 📫 How to reach me [jeso.centino.up@phinmaed.com](jeso.centino.up@phinmaed.com)
+- 📫 How to reach me [jharold.centino@gmail.com](jharold.centino@gmail.com)
 - 💼 I'm open to freelance work and client projects! Feel free to reach out if you need help with your tech ideas or development needs.
 
 <hr/>

@@ -20,6 +20,10 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp.com" height="30" width="40" />
 </a>
 
+a href="https://www.linkedin.com/in/jem-harold-centino-940836356/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com" height="30" width="40" />
+</a>
+
 
 ## Frameworks and Tools
 
